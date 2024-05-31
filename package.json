@@ -17,7 +17,7 @@
   "devDependencies": {
     "@eslint-recommended/eslint-config-typescript": "50.0.0",
     "@tsconfig/node20": "20.1.4",
-    "@types/node": "20.12.13",
+    "@types/node": "20.12.14",
     "eslint": "8.57.0",
     "glob": "10.3.16",
     "rimraf": "5.0.7",
