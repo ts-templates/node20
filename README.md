@@ -1,4 +1,3 @@
-[![build](https://github.com/ts-templates/node20/actions/workflows/build.yml/badge.svg)](https://github.com/ts-templates/node20/actions/workflows/build.yml)
 [![lint](https://github.com/ts-templates/node20/actions/workflows/lint.yml/badge.svg)](https://github.com/ts-templates/node20/actions/workflows/lint.yml)
 [![test](https://github.com/ts-templates/node20/actions/workflows/test.yml/badge.svg)](https://github.com/ts-templates/node20/actions/workflows/test.yml)
 [![ESLint Recommended](https://img.shields.io/badge/eslint-recommended-%234B32C3)](https://github.com/eslint-recommended)
