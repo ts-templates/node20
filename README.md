@@ -6,7 +6,7 @@
 
 Template for TypeScript project using Node.js v20
 
-## Features
+## ✨ Features
 
 - [ESLint](https://eslint.org/) with [ESLint Recommended](https://github.com/eslint-recommended)
   - Run on Pull request by GitHub Actions
@@ -15,7 +15,7 @@ Template for TypeScript project using Node.js v20
 - Manage Node.js version by [nvm](https://github.com/nvm-sh/nvm)
 - Manage dependency updates by [Renovate](https://renovatebot.com/)
 
-## Usage
+## 📖 Usage
 
 1. [Create repository](https://github.com/ts-templates/node20/generate) using template
 2. Replace provisional string with actual string
