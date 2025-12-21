@@ -4,7 +4,6 @@
   "description": "Template for TypeScript project using Node.js v20",
   "private": true,
   "scripts": {
-    "lint": "eslint --ignore-path .gitignore '**/*.{js,cjs,mjs,ts,cts,mts}'",
     "start": "tsx src/main.ts",
     "test": "glob -c 'node --test --require tsx/cjs' 'src/**/*.test.ts'"
   },
@@ -12,10 +11,8 @@
     "node": "20.19.6"
   },
   "devDependencies": {
-    "@eslint-recommended/eslint-config-typescript": "50.1.0",
     "@tsconfig/bases": "1.0.16",
     "@types/node": "20.19.26",
-    "eslint": "8.57.1",
     "glob": "12.0.0",
     "tsx": "4.21.0",
     "typescript": "5.9.3"
