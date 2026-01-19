@@ -8,7 +8,7 @@
     "test": "glob -c 'node --test --require tsx/cjs' 'src/**/*.test.ts'"
   },
   "engines": {
-    "node": "20.19.6"
+    "node": "20.20.0"
   },
   "devDependencies": {
     "@tsconfig/bases": "1.0.17",
